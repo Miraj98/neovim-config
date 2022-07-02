@@ -7,3 +7,4 @@ set autoindent
 
 set number
 set rnu
+set guicursor=

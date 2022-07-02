@@ -1,5 +1,4 @@
 source $HOME/.config/nvim/vim-plug/plugins.vim
-source $HOME/.config/nvim/vim-plug/plugin-configs/coc.vim
 
 source $HOME/.config/nvim/options/keybindings.vim
 source $HOME/.config/nvim/options/theme.vim

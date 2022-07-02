@@ -7,7 +7,6 @@ if empty(glob('~/.config/nvim/autoload/plug.vim'))
 endif
 
 call plug#begin('~/.config/nvim/plugged')
-  Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'tpope/vim-surround'
-  Plug 'junegunn/fzf'
+  Plug 'gruvbox-community/gruvbox'
 call plug#end()
