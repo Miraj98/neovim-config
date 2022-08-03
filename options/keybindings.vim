@@ -5,4 +5,4 @@
 
 inoremap ii <Esc>
 inoremap jk <Esc>
-nmap <C-P> :FZF<CR>
+nmap <C-P> :Telescope find_files<CR>

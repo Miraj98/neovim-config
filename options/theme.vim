@@ -1,4 +1,5 @@
-colorscheme gruvbox
+" colorscheme vscode
+colorscheme tokyonight
 " hi MatchParen cterm=underline ctermbg=none ctermfg=none
 
 " set cursorline
