@@ -21,10 +21,6 @@ call plug#begin('~/.config/nvim/plugged')
   Plug 'saadparwaiz1/cmp_luasnip'
   Plug 'L3MON4D3/LuaSnip'
   Plug 'williamboman/nvim-lsp-installer'
-  Plug 'Mofiqul/vscode.nvim'
   Plug 'ray-x/lsp_signature.nvim'
   Plug 'mfussenegger/nvim-lint'
-  Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
-  Plug 'nvim-lualine/lualine.nvim'
-  Plug 'kyazdani42/nvim-web-devicons'
 call plug#end()
